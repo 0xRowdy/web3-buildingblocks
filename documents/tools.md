@@ -2,6 +2,9 @@
 
 Below you'll find a list of tools that will support or supplement blockchain development
 
+### IDE
+- [Solidity Visual Auditor](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+
 ### JS Librarys
 
 - [Ganache](https://trufflesuite.com/ganache/) - Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
