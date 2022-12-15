@@ -1,4 +1,4 @@
-# Blockchain-Guild-Learning-Resources
+# Web3/Blockchain Resources
 
 A collection of Web3 learning resources for developers interested in learning about Blockchain/Web3 Development.
 
