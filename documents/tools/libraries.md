@@ -3,7 +3,7 @@
 ## Smart Contract Libraries
 
 - [OpenZeppelin](https://www.openzeppelin.com/) - OpenZeppelin provides security products to build, automate, and operate decentralized applications. We also protect leading organizations by performing security audits on their systems and products.
-- [Solmate](https://github.com/transmissions11/solmate) - Open Source alternative of Open Zeplin.
+- [Solmate](https://github.com/transmissions11/solmate) - Open Source alternative to OpenZeppelin.
 
 ## RPC and Dev Tooling
 
